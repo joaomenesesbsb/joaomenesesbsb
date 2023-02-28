@@ -6,7 +6,7 @@
 
 <div>
     <img height='180px' src='https://github-readme-stats.vercel.app/api?username=joaomenesesbsb&show_icons=true&theme=merko'>
-    <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenesesbsb&layout=compact&theme=merko'>
+    <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenesesbsb&layout=compact&langs_count=16&theme=merko'>
 </div>
 
 ## Tecnologias que eu uso no meu dia
@@ -25,4 +25,6 @@
 </div><br/>
 
 Apaixonado por tecnologia e conhecimento, estudando programação a um ano e todo dia aprendendo algo novo.
+
+
 
