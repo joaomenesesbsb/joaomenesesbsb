@@ -5,6 +5,7 @@
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-meneses-8198501b6/)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomenesesbsb&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenesesbsb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -19,4 +20,6 @@
     <img align='center' alt='Postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
     <img align='center' alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
     <img align='center' alt='React router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
-</div>
+</div><br/>
+
+Apaixonado por tecnologia e conhecimento, estudando programação a um ano e todo dia aprendendo algo novo.
