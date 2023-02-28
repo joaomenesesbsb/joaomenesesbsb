@@ -26,5 +26,3 @@
 
 Apaixonado por tecnologia e conhecimento, estudando programação a um ano e todo dia aprendendo algo novo.
 
-
-
