@@ -1,8 +1,8 @@
 ### Olá eu sou o joão Victor ✌️
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)(https://joao-website.netlify.app/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_meneses204/)
-[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-meneses-8198501b6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-meneses-8198501b6/)
 
 <div>
     <img height='180px' src='https://github-readme-stats.vercel.app/api?username=joaomenesesbsb&show_icons=true&theme=merko'>
