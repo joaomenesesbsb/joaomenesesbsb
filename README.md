@@ -1,6 +1,6 @@
 ### Olá eu sou o joão Victor ✌️
 
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)(https://joao-website.netlify.app/)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joao-website.netlify.app/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_meneses204/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-meneses-8198501b6/)
 
