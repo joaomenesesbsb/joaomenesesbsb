@@ -4,10 +4,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_meneses204/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-meneses-8198501b6/)
 
-<div>
-    <img height='180px' src='https://github-readme-stats.vercel.app/api?username=joaomenesesbsb&show_icons=true&theme=merko'>
-    <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenesesbsb&layout=compact&langs_count=16&theme=merko'>
-</div>
 
 ## Tecnologias que eu uso no meu dia
 
